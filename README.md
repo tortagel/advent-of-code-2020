@@ -1,2 +1,3 @@
-# advent-of-code-2020
-Advent of code 2020
+# Advent of Code 2020
+
+Usage: `solve.py day [-p PART]`
